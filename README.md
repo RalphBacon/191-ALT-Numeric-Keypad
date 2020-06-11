@@ -8,7 +8,6 @@ So my new Corsair K53 keyboard lacks the ability to allow an ALT key combination
 
 https://www.pcbway.com 2-sided PCB just $5 for 10 pieces. Assembly for up to 20-pieces just $30 including free shipping.
 ```
-First order free! 2-sided PCB just $5 for 10 pieces. Assembly for 10-pieces just $88.
 PCB Prototyping the easy way - see my video #129 for Hands-On details.
 
 Why Buy Your Printed Circuit Boards From PCBWay?  
