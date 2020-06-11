@@ -2,7 +2,7 @@
 No ALT key? No numeric keypad? This is a workaround!
 
 ## See https://youtube.com/ralphbacon  
-### Direct link to video: 
+### Direct link to video: https://youtu.be/rXz6eqhDPak  
 
 So my new Corsair K53 keyboard lacks the ability to allow an ALT key combination, so I will have to create my own!
 
